@@ -28,8 +28,8 @@ Account Basics
 [x] How to Navigate the AWS Console 00:05:01
 [x] AWS Documentation (bonus video) 00:06:41
 Identity & Access Management (IAM)
-[ ] What is IAM? 00:04:04
-[ ] IAM Initial Setup and Configuration 00:12:01
+[x] What is IAM? 00:04:04
+[x] IAM Initial Setup and Configuration 00:12:01
 [ ] IAM Users and Policies 00:04:37
 [ ] IAM Groups and Policies 00:03:54
 [ ] IAM Roles 00:05:19
