@@ -30,7 +30,7 @@ Account Basics
 Identity & Access Management (IAM)
 [x] What is IAM? 00:04:04
 [x] IAM Initial Setup and Configuration 00:12:01
-[ ] IAM Users and Policies 00:04:37
+[x] IAM Users and Policies 00:04:37
 [ ] IAM Groups and Policies 00:03:54
 [ ] IAM Roles 00:05:19
 [ ] Quiz: IAM Essentials<
